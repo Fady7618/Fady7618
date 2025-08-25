@@ -11,7 +11,7 @@
 
 - 🌱 Learning: **React Three Fiber, GSAP, Blender**
 - 💬 Ask me about: **Frontend performance, animations, clean UI**
-- 📫 Reach me: **factaguib@gmail.com / www.linkedin.com/in/fady-alfred**
+- 📫 Reach me: **fadyalfred77@gmail.com / www.linkedin.com/in/fady-alfred**
 - ☕ Fun fact: I design UIs like I decorate a cake — pixel-perfect & satisfying 🍰
 
 ---
