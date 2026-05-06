@@ -13,17 +13,17 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** with **3+ years of experience** building scalable web and mobile applications. Currently developing **enterprise-grade** systems at **Syscodeia**, where I architect production-ready applications used by real users.
+I'm a **Software Engineer** with **4+ years of experience** building scalable web and mobile applications. I specialize in developing **enterprise-grade**, **production-ready** systems that serve real users in demanding environments.
 
-- 🏢 **Currently working at**: Syscodeia (Full-Time Software Engineer)
-- 🔭 **Building**: Scalable web applications with Angular, React, and TypeScript
-- 📱 **Mobile Development**: React Native & Expo for cross-platform apps
-- ⚡ **Performance**: Achieved up to **90% performance improvements** through optimization
-- 🏗️ **Architecture**: Clean code principles, reusable components, modular design
-- 🎯 **Focus**: Enterprise systems, production applications, API integration
-- 💼 **Experience**: Banking systems (CIB, Banque Misr), Government projects (MCIT - DEPI)
+- 🏗️ **Building**: Enterprise-level web applications with Angular, React, and TypeScript
+- 📱 **Mobile Development**: Cross-platform apps using React Native & Expo
+- ⚡ **Performance Expert**: Achieved up to **90% performance improvements** through optimization techniques
+- 🎯 **Architecture Focus**: Clean code, reusable components, modular design patterns
+- 💼 **Enterprise Experience**: Banking systems, government projects, production applications
+- 🔧 **Technical Skills**: State management (NgRx, RxJs), API integration, Agile workflows
+- 🚀 **Specialties**: Scalable architecture, performance optimization, UI/UX implementation
 - 🌱 **Currently exploring**: Advanced React Three Fiber, GSAP animations, Next.js 15
-- 💬 **Ask me about**: Frontend architecture, state management (NgRx, Redux), performance optimization, mobile development
+- 💬 **Ask me about**: Frontend architecture, state management, performance optimization, mobile development
 - 📫 **Reach me**: fadyalfred77@gmail.com | [LinkedIn](https://www.linkedin.com/in/fady-alfred)
 
 ---
