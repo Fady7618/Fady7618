@@ -75,34 +75,34 @@ I'm a **Software Engineer** with **3+ years of experience** building scalable we
 
 ### 🚀 Featured Projects
 
-#### 🎵 [Spotify Clone](https://github.com/Fady7618/spotify-clone) | 2025
+#### 🎵 [Spotify Clone](https://github.com/Fady7618/Spotify-App) | 2025
 Full-featured music streaming application with modern UI
 - **Stack**: React, TypeScript, TailwindCSS
 - **Features**: Audio playback, playlist management, responsive design
 
-#### 💼 [3D Portfolio](https://portfolio-five-zeta-79.vercel.app/) | 2025
+#### 💼 [3D Portfolio](https://github.com/Fady7618/threejs-portfolio) | 2025
 Interactive portfolio with 3D elements and smooth animations
 - **Stack**: React, TypeScript, TailwindCSS, GSAP, Three.js
 - **Features**: WebGL animations, scroll-triggered effects, performance optimization
 
-#### 🛒 [E-Commerce Platform](https://github.com/Fady7618/ecommerce-store) | 2025
+#### 🛒 [E-Commerce Platform](https://github.com/Fady7618/E-CommerceAngular) | 2025
 Full-stack e-commerce solution with admin panel
 - **Frontend**: Angular, TypeScript, Bootstrap, RxJs
 - **Backend**: Node.js, MongoDB, REST APIs
 - **Features**: Authentication, payment integration, real-time inventory
 
-#### 📱 [GenCareAI Healthcare App](https://github.com/Fady7618/gencareai) | 2025
+#### 📱 [GenCareAI Healthcare App](https://github.com/Fady7618/GenCare-Project) | 2025
 Cross-platform healthcare application
 - **Web**: EJS, JavaScript, Bootstrap, Node.js, MongoDB
 - **Mobile**: React Native, TypeScript, Expo
 - **Features**: AI-powered health assistance, appointment booking
 
-#### 📰 [Scoop News Platform](https://github.com/Fady7618/scoop) | 2025
+#### 📰 [Scoop News Platform](https://github.com/Fady7618/Scoop) | 2025
 Modern news aggregation platform
 - **Stack**: React, JavaScript, Bootstrap, GSAP
 - **Features**: Dynamic content loading, category filtering, smooth animations
 
-#### 📸 [Photography Portfolio](https://github.com/Fady7618/photography-portfolio) | 2025
+#### 📸 [Photography Portfolio](https://github.com/Fady7618/Photography-Portfolio) | 2025
 Minimalist photography showcase
 - **Stack**: Next.js, TypeScript, TailwindCSS, GSAP
 - **Features**: Image optimization, lazy loading, gallery navigation
