@@ -97,16 +97,20 @@ Interactive portfolio with 3D elements and smooth animations
 - **Stack**: React, TypeScript, TailwindCSS, GSAP, Three.js
 - **Features**: WebGL animations, scroll-triggered effects, performance optimization
 
-#### 🎵 [Spotify Clone](https://github.com/Fady7618/Spotify-App) | 2025
-Full-featured music streaming application with modern UI
-- **Stack**: React, TypeScript, TailwindCSS
-- **Features**: Audio playback, playlist management, responsive design
-
 #### 🛒 [E-Commerce Platform](https://github.com/Fady7618/E-CommerceAngular) | 2025
 Full-stack e-commerce solution with admin panel
 - **Frontend**: Angular, TypeScript, Bootstrap, RxJs
 - **Backend**: Node.js, MongoDB, REST APIs
-- **Features**: Authentication, payment integration, real-time inventory
+- **Features**:
+  - User Authentication (Email/Password & Google OAuth)
+  - Secure JWT tokens
+  - Cart & Wishlist with persistent state
+  - RESTful API & modular backend with MongoDB
+
+#### 🎵 [Spotify Clone](https://github.com/Fady7618/Spotify-App) | 2025
+Full-featured music streaming application with modern UI
+- **Stack**: React, TypeScript, TailwindCSS
+- **Features**: Audio playback, playlist management, responsive design
 
 #### 📱 [GenCareAI Healthcare App](https://github.com/Fady7618/GenCare-Project) | 2025
 Cross-platform healthcare application
