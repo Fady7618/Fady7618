@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** with **4+ years of experience** building scalable web and mobile applications. I specialize in developing **enterprise-grade**, **production-ready** systems that serve real users in demanding environments.
+I'm a **Software Engineer** with **3+ years of experience** building scalable web and mobile applications. I specialize in developing **enterprise-grade**, **production-ready** systems that serve real users in demanding environments.
 
 - 🏗️ **Building**: Enterprise-level web applications with Angular, React, and TypeScript
 - 📱 **Mobile Development**: Cross-platform apps using React Native & Expo
