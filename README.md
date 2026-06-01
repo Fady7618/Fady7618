@@ -59,12 +59,14 @@ I'm a **Software Engineer** with **4+ years of experience** building scalable we
 #### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -75,15 +77,30 @@ I'm a **Software Engineer** with **4+ years of experience** building scalable we
 
 ### 🚀 Featured Projects
 
+#### 📸 [Photography Portfolio & Business Platform](https://github.com/Fady7618/Photography-Portfolio) | 2026
+Full-featured photography business platform built as a production-ready SaaS template — deployed and sold to photographers as a managed service
+- **Stack**: Next.js 14, TypeScript, TailwindCSS, GSAP, Supabase
+- **Backend**: Supabase (Postgres, Auth, Storage), Resend email API
+- **Features**:
+  - GSAP scroll-triggered animations and page transitions
+  - Booking & reservation system with automated email notifications
+  - Client gallery with token-based and auth-based access control
+  - Admin dashboard for session management and file uploads
+  - Resumable chunked file uploads (TUS protocol) with per-file progress
+  - Server-side image optimization and thumbnail generation (Sharp)
+  - Paginated infinite scroll gallery with lazy loading
+  - ZIP download of entire sessions streamed server-side
+  - Multi-tenant architecture — same codebase deployed per client with environment-based branding
+
+#### 💼 [3D Portfolio](https://github.com/Fady7618/threejs-portfolio) | 2026
+Interactive portfolio with 3D elements and smooth animations
+- **Stack**: React, TypeScript, TailwindCSS, GSAP, Three.js
+- **Features**: WebGL animations, scroll-triggered effects, performance optimization
+
 #### 🎵 [Spotify Clone](https://github.com/Fady7618/Spotify-App) | 2025
 Full-featured music streaming application with modern UI
 - **Stack**: React, TypeScript, TailwindCSS
 - **Features**: Audio playback, playlist management, responsive design
-
-#### 💼 [3D Portfolio](https://github.com/Fady7618/threejs-portfolio) | 2025
-Interactive portfolio with 3D elements and smooth animations
-- **Stack**: React, TypeScript, TailwindCSS, GSAP, Three.js
-- **Features**: WebGL animations, scroll-triggered effects, performance optimization
 
 #### 🛒 [E-Commerce Platform](https://github.com/Fady7618/E-CommerceAngular) | 2025
 Full-stack e-commerce solution with admin panel
@@ -102,29 +119,12 @@ Modern news aggregation platform
 - **Stack**: React, JavaScript, Bootstrap, GSAP
 - **Features**: Dynamic content loading, category filtering, smooth animations
 
-#### 📸 [Photography Portfolio](https://github.com/Fady7618/Photography-Portfolio) | 2025
-Minimalist photography showcase
-- **Stack**: Next.js, TypeScript, TailwindCSS, GSAP
-- **Features**: Image optimization, lazy loading, gallery navigation
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fady7618&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady7618&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fady7618&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fady7618&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 </div>
 
 ---
